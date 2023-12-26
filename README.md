@@ -1,21 +1,16 @@
 ﻿# ⭐️Portfolio - HueFlix
 
  <!-- contents -->
-<details open="open">
-  <summary>Contents</summary>
-  <ol>
-    <li>
-      <a href="#개요">개요</a>
-    </li>
-    <li>
-      <a href="#내용">내용</a>
-    </li>
-    <li><a href="#구현기능">구현기능</a>
-    </li>
-   <li>
-    <a href="#프로젝트하면서 아쉬웠던 점">프로젝트에서 아쉬웠던 점</a>
-   </li>
-  </ol>
+<details>
+  <summary>
+    Content
+  </summary>
+
+
+  - [ 개요](#개요)
+  - [ 내용](#내용)
+  - [ 구현기능](#구현기능)
+  - [ 프로젝트하면서 아쉬웠던 점](#프로젝트하면서-아쉬웠던-점)
 </details>
 
 -----------
@@ -126,7 +121,7 @@
  - 게시판 관리자는 수정, 삭제 권한을 부여하여 CRUD가 가능한 게시판
  - 목록보기 버튼을 누르면 게시판으로 이동
 
-## 영화 상세정보(줄거리, 출연, 영상/포토, 평점/댓글)
+## 영화 상세정보
 ![image](https://github.com/brandmin/HueFlix/assets/82518048/722f4f88-b261-4cff-9bb2-20c9963d3d73)
 ![image](https://github.com/brandmin/HueFlix/assets/82518048/ca984571-feb6-41c5-b9b0-b15697f934ec)
 <br>
